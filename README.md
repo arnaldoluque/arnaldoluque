@@ -39,7 +39,7 @@ Olá, eu sou Arnaldo Luque! 👋
 ---
 
 
-<!--## 🎯 Metas
+<## 🎯 Metas
 
 - 🧪 Aprender testes avançados com Pytest e Postman  
 - 💼 Conseguir minha primeira vaga remota como backend Python dev
