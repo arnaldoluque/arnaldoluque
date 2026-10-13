@@ -32,8 +32,8 @@ Olá, eu sou Arnaldo Luque! 👋
 ## 🛠️ Ferramentas que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,postgresql,linux" /><br/>
-  <!--<img src="https://skillicons.dev/icons?i=git,github,linux,mysql,sqlite,vscode,postman" />-->
+  <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,linux" /><br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,mysql,sqlite,vscode,postman" />
 </p>
 
 ---
