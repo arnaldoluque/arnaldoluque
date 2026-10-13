@@ -6,7 +6,7 @@ Olá, eu sou Arnaldo Luque! 👋
 
 ## 👨‍💻 Sobre Mim
 
-- 🎓 18 anos de idade | Estudante de IT & Desenvolvedor Back-end 
+- 🎓Estudante de IT & Desenvolvedor Back-end 
 - 🐍 Python (Django in progress)  
 - 🌍 Angola
 
@@ -33,7 +33,7 @@ Olá, eu sou Arnaldo Luque! 👋
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,linux" /><br/>
-<img src="https://skillicons.dev/icons?i=git,github,linux,mysql,sqlite,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,mysql,sql,vscode,postman" />
 </p>
 
 ---
@@ -45,4 +45,4 @@ Olá, eu sou Arnaldo Luque! 👋
 - 💼 Conseguir minha primeira vaga remota como backend Python dev
 
 ---
--->
+
