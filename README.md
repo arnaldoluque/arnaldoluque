@@ -33,7 +33,7 @@ Olá, eu sou Arnaldo Luque! 👋
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,postgresql,linux" /><br/>
-<img src="https://skillicons.dev/icons?i=git,github,mysql,sql,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,mysql,vscode,postman" />
 </p>
 
 ---
